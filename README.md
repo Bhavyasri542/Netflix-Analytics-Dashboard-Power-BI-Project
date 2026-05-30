@@ -73,3 +73,6 @@ Improved data visualization and analytical skills using Power BI.
 Learned data cleaning, transformation, modeling, and dashboard creation.
 
 Built an interactive dashboard for effective business intelligence reporting.
+
+Project Link
+https://github.com/Bhavyasri542/Netflix-Analytics-Dashboard-Power-BI-Project.git
